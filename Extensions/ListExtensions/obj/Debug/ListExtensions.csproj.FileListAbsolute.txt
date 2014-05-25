@@ -1,0 +1,5 @@
+D:\Projects\ListExtensions\ListExtensions\bin\Debug\ListExtensions.dll
+D:\Projects\ListExtensions\ListExtensions\bin\Debug\ListExtensions.pdb
+D:\Projects\ListExtensions\ListExtensions\obj\Debug\ListExtensions.csprojResolveAssemblyReference.cache
+D:\Projects\ListExtensions\ListExtensions\obj\Debug\ListExtensions.dll
+D:\Projects\ListExtensions\ListExtensions\obj\Debug\ListExtensions.pdb
